@@ -1,7 +1,7 @@
 # Brazil Seed Transfer Zones
 Seed Transfer Zones (STZs) based on 25 climatic and edaphic variables to support seed sourcing for ecological restoration across Brazil.
 
-Input environmental layers available at: https://drive.google.com/file/d/100hAU63q4eza8v0UWieh_1ispUKwWhVU/view?usp=drive_link
+Input environmental layers available at: https://drive.google.com/file/d/1GVs0gbEgZdR2__KcP4L4i5cTGO5zj3qH/view?usp=sharing
 
 Online application available at: https://mateus-silva.shinyapps.io/stz-br/
 
